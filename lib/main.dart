@@ -36,7 +36,7 @@ class MyHomePage extends ConsumerWidget {
   Widget build(BuildContext context, WidgetRef ref) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Riverpod example'),
+        title: const Text('Riverpod example updated'),
       ),
       body: Center(
         child: Column(
